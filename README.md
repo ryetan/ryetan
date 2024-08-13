@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rye</h1>
 <h3 align="center">SRE From Shanghai</h3>
 
-- 🔭 在 **atrenew** 打工。
+- 🔭 在 **atrenew** 打工；
 
-- 🌱 目前关注 **facebook/prophet** 相关的技术。
+- 🌱 目前关注 **facebook/prophet** 相关的技术；
 
-- 💬 关于 **observability and site reliability** 欢迎找我讨论。
+- 💬 关于 **observability and site reliability** 欢迎找我讨论；
 
 - 📫 我的邮箱： **sretan@163.com**  ***虽然不怎么看邮箱。***
 
-- ⚡  ***三尺微命,一介书生。***
+- ⚡  ***三尺微命,一介书生。超级爱🏀***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
