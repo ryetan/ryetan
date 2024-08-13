@@ -11,7 +11,6 @@
 
 - ⚡  **三尺微命,一介书生。超级爱🏀**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
